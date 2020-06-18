@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/roy/.platformio/penv/bin:/home/roy/.platformio/penv:/home/roy/.opam/default/bin:/home/roy/.cargo/bin:/home/roy/.cargo/bin:/home/roy/bin:/home/roy/.opam/default/bin:/home/roy/.cargo/bin:/home/roy/.cargo/bin:/home/roy/.rvm/gems/ruby-2.3.6/bin:/home/roy/.rvm/gems/ruby-2.3.6@global/bin:/home/roy/.rvm/rubies/ruby-2.3.6/bin:/home/roy/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin:/home/roy/.rvm/bin:/home/roy/.rvm/bin:/home/roy/.local/bin:/home/roy/.rvm/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp"
+    }
+}
